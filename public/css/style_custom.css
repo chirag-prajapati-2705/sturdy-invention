@@ -1,0 +1,19 @@
+.banner-image, .product-image{
+    width:100px;
+    height:100px;
+    margin-top: 10px;
+}
+.alert{
+    background: #66b74a;
+    color: #ffffff;
+}
+.alert-danger{
+    background-color: #ebccd1 !important;
+}
+.rslides img{
+    height: 347px;
+}
+.logo-block img{
+    width:100px;
+    height:100%
+}
